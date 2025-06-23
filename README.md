@@ -38,7 +38,11 @@
    Secure, efficient mailing system for transactional and bulk emails  
 
 - 🗳️ Voting System  
-   Custom online voting platform with real-time result updates  
+   Custom online voting platform with real-time result updates
+
+- 🗳️ Ongoing Projects  
+   I am actively working on a few new projects, which are currently private. Details and demos will be available upon request or once development is complete. Feel free to reach out if you'd like to discuss them.
+
 
 *Interested in viewing any project? Feel free to [contact me](https://wa.me/2349122001163) for access, demos, or collaboration opportunities.*  
 
