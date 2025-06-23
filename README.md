@@ -17,5 +17,6 @@
 ## 📫 Contact Me
 
 - [LinkedIn](http://www.linkedin.com/in/blessing-oyesomi-fast0610)  
-- [Email](blecinoyesomi16@gmail.com)  
-- [Whatsapp](+234 912 200 1163)
+- [Email](mailto:blecinoyesomi16@gmail.com)  
+- [WhatsApp](https://wa.me/2349122001163)  
+
